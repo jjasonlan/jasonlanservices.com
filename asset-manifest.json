@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jasonlanservices.com/static/css/main.b100e6da.chunk.css",
+    "main.js": "/jasonlanservices.com/static/js/main.dad625d3.chunk.js",
+    "main.js.map": "/jasonlanservices.com/static/js/main.dad625d3.chunk.js.map",
+    "runtime-main.js": "/jasonlanservices.com/static/js/runtime-main.96e7d4ac.js",
+    "runtime-main.js.map": "/jasonlanservices.com/static/js/runtime-main.96e7d4ac.js.map",
+    "static/js/2.5956dce1.chunk.js": "/jasonlanservices.com/static/js/2.5956dce1.chunk.js",
+    "static/js/2.5956dce1.chunk.js.map": "/jasonlanservices.com/static/js/2.5956dce1.chunk.js.map",
+    "index.html": "/jasonlanservices.com/index.html",
+    "precache-manifest.966aa41a267b3e5ca5b43bb0eb865fc7.js": "/jasonlanservices.com/precache-manifest.966aa41a267b3e5ca5b43bb0eb865fc7.js",
+    "service-worker.js": "/jasonlanservices.com/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/jasonlanservices.com/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/jasonlanservices.com/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96e7d4ac.js",
+    "static/js/2.5956dce1.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.dad625d3.chunk.js"
+  ]
+}
